@@ -103,12 +103,7 @@ Handles booking, fare calculation, route checking, and seat availability.
 - **Urdu:** Native  
 - **Punjabi:** Fluent
 
----
 
-## 📜 **References**
-Available upon request.
-
----
 
 ## 🏆 **Contribution Graph**
 
@@ -117,4 +112,3 @@ Here's a snapshot of my contribution activity across the year:
 ![Contribution Graph](https://github.com/anasfazalawan/github-readme-contributions.svg)
 
 ---
-
