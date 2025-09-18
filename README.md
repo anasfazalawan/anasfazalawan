@@ -63,36 +63,6 @@ Here are the core technologies I work with:
 - Developed microservices, pagination, and ratelimiting middleware.  
 - Created an e-commerce backend for multi-role (Admin, Seller, Customer) management.
 
-### **Marketing Executive**  
-**iaeGLOBAL Pakistan** | July 2024 – September 2024  
-- Designed targeted marketing campaigns for lead generation and brand awareness.
-
----
-
-## 📂 **Projects**
-
-### **SmartCUI**  
-Developed an AI-driven platform for job seekers offering automated skill testing and job recommendations.  
-Implemented using **Next.js**, **Node.js**, and **MongoDB**.
-
-### **TaskIQ**  
-AI-powered platform for automatic task extraction from meeting transcripts.  
-Integrated with **Nest.js**, **Next.js**, **Prisma ORM**.
-
-### **AI Bus Services Agent**  
-Developed AI-driven speech-to-speech and messaging agents for a bus company.  
-Handles booking, fare calculation, route checking, and seat availability.  
-**Technologies Used:** **AWS Nova**, **AWS Polly**, **Socket.IO**, **MongoDB**, **OpenAI LLM**, **Gemini API**
-
----
-
-## 🏆 **Additional Activities**  
-- **CS Department Sports Coordinator**  
-- **Founder and Ex-President of C3.CUI**  
-- **Urdu Debater**  
-- **Co-Organizer TEDxCUI**  
-- **Huawei ICT Campus Ambassador**
-
 ---
 
 ## 🌍 **Languages**
