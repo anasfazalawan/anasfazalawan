@@ -30,9 +30,6 @@ Here are the core technologies I work with:
   
 - **Cloud Platforms & DevOps:**  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-  
-- **Message Queuing:**  
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 - **Database Management:**  
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -104,11 +101,3 @@ Handles booking, fare calculation, route checking, and seat availability.
 - **Punjabi:** Fluent
 
 
-
-## 🏆 **Contribution Graph**
-
-Here's a snapshot of my contribution activity across the year:
-
-![Contribution Graph](https://github.com/anasfazalawan/github-readme-contributions.svg)
-
----
