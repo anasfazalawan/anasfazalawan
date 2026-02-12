@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm a **Software Engineer** with expertise in **fu
 - **Email:** [anasfazalawan@gmail.com](mailto:anasfazalawan@gmail.com)
 - **LinkedIn:** [linkedin.com/in/anasfazalawan/](https://linkedin.com/in/anasfazalawan/)
 - **GitHub:** [github.com/anasfazalawan](https://github.com/anasfazalawan)
+- **Portfolio:** [anas-fazal-portfolio.vercel.app/](https://anas-fazal-portfolio.vercel.app/)
 - **Location:** Islamabad, Pakistan
 
 ---
