@@ -23,7 +23,6 @@
 <a href="https://github.com/anasfazalawan">
   <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=e6edf3" />
 </a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=anasfazalawan&style=flat-square&color=21262d&label=Profile+Views&color=30363d" />
 
 <br/><br/>
 
@@ -72,7 +71,7 @@ const anas = {
 <td width="45%" valign="top">
 <br/>
 
-<h4>The surface is never the full story.</h4>
+
 
 My story didn't begin with code.
 
@@ -84,7 +83,7 @@ Today I ship AI-powered applications at **Empeer Devlab**, build voice agents th
 
 <br/>
 
-> *"Technology should tell a story."*
+> *"The surface is never the full story."*
 
 <br/>
 
