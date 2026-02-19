@@ -1,18 +1,34 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║          Muhammad Anas Fazal — GitHub Profile README     ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Muhammad%20Anas%20Fazal&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Community%20Founder&descAlignY=60&descColor=c9d1d9&animation=fadeIn&fontAlignX=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:21262d,100:0d1117&height=240&section=header&text=Muhammad%20Anas%20Fazal&fontSize=54&fontColor=e6edf3&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Community%20Founder&descAlignY=62&descColor=8b949e&animation=fadeIn" />
 
 <br/>
 
-<a href="https://linkedin.com/in/anasfazalawan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://anas-fazal-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23302b63?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="mailto:anasfazalawan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/anasfazalawan"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=anasfazalawan&style=flat-square&color=302b63&label=Profile+Views" />
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/anasfazalawan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="https://anas-fazal-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=vercel&logoColor=58a6ff" />
+</a>&nbsp;
+<a href="mailto:anasfazalawan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/anasfazalawan">
+  <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=e6edf3" />
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=anasfazalawan&style=flat-square&color=21262d&label=Profile+Views&color=30363d" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=8B949E&center=true&vCenter=true&width=580&lines=Full-Stack+Engineer+%7C+MERN+%2B+Nest.js+%2B+Next.js;AI+%26+LLM+Integration+%E2%80%94+Gemini+%7C+OpenAI+%7C+AWS+Nova;Community+Co-Founder+%E2%80%94+10%2C000%2B+Attendees;TEDx+Operations+Manager;Published+Author+%E2%80%94+Melancholic+Phases+(2022)" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=58a6ff&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%E2%80%94+MERN+%2B+Nest.js+%2B+Next.js;AI+%26+LLM+Integration+%E2%80%94+Gemini+%7C+OpenAI+%7C+AWS+Nova;Community+Co-Founder+%E2%80%94+10%2C000%2B+Attendees;TEDx+Operations+Manager+%E2%80%94+COMSATS+Islamabad;Published+Author+%E2%80%94+Melancholic+Phases+(2022)" alt="Typing SVG" />
 
 </div>
 
@@ -20,46 +36,47 @@
 
 ---
 
+<br/>
+
 ## About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ```typescript
 const anas = {
   name    : "Muhammad Anas Fazal",
   location: "Islamabad, Pakistan",
   role    : "Software Engineer @ Empeer Devlab",
-  degree  : "BS Software Engineering",
-  school  : "COMSATS University Islamabad",
-  year    : "2021 – 2025",
+
+  education: {
+    degree : "BS Software Engineering",
+    school : "COMSATS University Islamabad",
+    years  : "2021 – 2025",
+  },
 
   focus: [
     "AI Agents & LLM Integration",
-    "Full-Stack Development",
-    "Community Building",
-  ],
-
-  building: [
-    "Voice/text AI agents — Gemini, AWS Nova",
-    "MERN platforms — Nest.js & Next.js",
+    "Full-Stack Product Development",
+    "Community Building & Leadership",
   ],
 
   portfolio: "anas-fazal-portfolio.vercel.app",
-  openTo   : "Collaborations & New Roles",
+  openTo   : "Collaborations & Full-Time Roles",
   status   : "available ✓",
 };
 ```
 
 </td>
-<td width="42%" valign="top">
-
+<td width="45%" valign="top">
 <br/>
 
-**My story didn't begin with code.**
+<h4>The surface is never the full story.</h4>
 
-It began with words — Urdu poetry, debates, and co-authoring a published book before ever writing a line of production software.
+My story didn't begin with code.
+
+It began with words — Urdu poetry, debates, and co-authoring a published book before I ever wrote a line of production software.
 
 That background shapes how I build: every system should tell a clear story. Clean architecture. Purposeful APIs. AI that genuinely helps people.
 
@@ -71,124 +88,147 @@ Today I ship AI-powered applications at **Empeer Devlab**, build voice agents th
 
 <br/>
 
-📍 Islamabad, Pakistan &nbsp;|&nbsp; 🌐 [Portfolio](https://anas-fazal-portfolio.vercel.app/)
+<sub>📍 Islamabad, Pakistan &nbsp;·&nbsp; <a href="https://anas-fazal-portfolio.vercel.app/">Portfolio →</a></sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## Currently Building
-
-<table>
-<tr>
-<td width="25%" align="center">
-<b>AI Voice Agents</b><br/>
-<sub>LLM · Gemini API · AWS Nova<br/>Speech-to-speech pipelines</sub>
-</td>
-<td width="25%" align="center">
-<b>Full-Stack Platforms</b><br/>
-<sub>Nest.js · Next.js · Prisma ORM<br/>Scalable MERN architecture</sub>
-</td>
-<td width="25%" align="center">
-<b>Payment Systems</b><br/>
-<sub>Stripe integration<br/>Automated billing workflows</sub>
-</td>
-<td width="25%" align="center">
-<b>Cloud Infrastructure</b><br/>
-<sub>AWS · Docker · CI/CD<br/>Production-grade DevOps</sub>
-</td>
-</tr>
-</table>
+<br/>
 
 ---
+
+<br/>
 
 ## Tech Stack
 
 <div align="center">
 
-**Languages**
+<table>
+<tr>
+<td align="center" width="130"><b>Languages</b></td>
+<td>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
-**Backend**
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=339933)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404040?style=flat-square&logo=express&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![Nest.js](https://img.shields.io/badge/Nest.js-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=e6edf3)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io&logoColor=e6edf3)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
 
-**AI & LLM**
+</td>
+</tr>
+<tr>
+<td align="center"><b>AI & LLM</b></td>
+<td>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![AWS Nova](https://img.shields.io/badge/AWS_Nova-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)
+![Gemini API](https://img.shields.io/badge/Gemini_API-0d1117?style=flat-square&logo=google&logoColor=4285F4)
+![AWS Nova](https://img.shields.io/badge/AWS_Nova-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![LLMs](https://img.shields.io/badge/LLM_Agents-0d1117?style=flat-square&logo=probot&logoColor=58a6ff)
 
-**Databases**
+</td>
+</tr>
+<tr>
+<td align="center"><b>Databases</b></td>
+<td>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-001e2b?style=flat-square&logo=mongodb&logoColor=00ed64)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ed64)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=e6edf3)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=FF6600)
 
-**Cloud & DevOps**
+</td>
+</tr>
+<tr>
+<td align="center"><b>Cloud & DevOps</b></td>
+<td>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=D24939)
+![PM2](https://img.shields.io/badge/PM2-0d1117?style=flat-square&logo=pm2&logoColor=2B037A)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 
-**Tools & Design**
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
 
-![Stripe](https://img.shields.io/badge/Stripe-008CFF?style=flat-square&logo=stripe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=008CFF)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=flat-square&logo=jira&logoColor=0052CC)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Work Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<img align="right" src="https://img.shields.io/badge/Jun_2025–Present-161b22?style=flat-square&color=238636&labelColor=161b22" />
 
-#### Software Engineer &nbsp;·&nbsp; Empeer Devlab
-`June 2025 – Present` &nbsp;·&nbsp; Islamabad
+#### Software Engineer · Empeer Devlab
 
-Full-stack MERN development with **Nest.js**, **Next.js**, and **Prisma ORM**. Building production AI voice and text agents using **LLMs**, **Gemini API**, and **AWS Nova** with real-time **Socket.IO** communication. Integrated **Stripe** payment processing and email automation APIs. Developed function-calling AI services covering booking, fare calculation, route checking, and seat availability.
+Full-stack MERN development with **Nest.js**, **Next.js**, and **Prisma ORM**. Building production AI voice and text agents using **LLMs**, **Gemini API**, and **AWS Nova** with real-time **Socket.IO** communication. Integrated **Stripe** payment processing and email automation. Developed function-calling AI services covering booking, fare calculation, route checking, and seat availability.
+
+<sub>`Nest.js` `Next.js` `LLM` `Gemini` `AWS Nova` `Stripe` `Socket.IO`</sub>
 
 </td>
 <td width="50%" valign="top">
+<img align="right" src="https://img.shields.io/badge/Mar–May_2025-161b22?style=flat-square&color=1f6feb&labelColor=161b22" />
 
-#### Software Intern &nbsp;·&nbsp; AKSA SDS
-`March 2025 – May 2025` &nbsp;·&nbsp; Islamabad
+#### Software Intern · AKSA SDS
 
-Backend systems built with **Node.js**, **Express.js**, **MongoDB**, **MySQL**, and **PM2**. Architected microservices with rate-limiting middleware and pagination. Built a full e-commerce backend with three distinct user roles — Admin, Seller, and Customer. Integrated **Redis** and **RabbitMQ** for message queuing. Followed **MVC architecture** for clean, scalable structure.
+Backend systems built with **Node.js**, **Express.js**, **MongoDB**, **MySQL**, and **PM2**. Architected microservices with rate-limiting middleware and pagination. Built a full e-commerce backend with three distinct user roles — Admin, Seller, and Customer. Integrated **Redis** and **RabbitMQ** for message queuing and followed **MVC architecture** throughout.
+
+<sub>`Node.js` `Express.js` `MongoDB` `Redis` `RabbitMQ` `MVC`</sub>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Featured Projects
 
@@ -196,60 +236,102 @@ Backend systems built with **Node.js**, **Express.js**, **MongoDB**, **MySQL**, 
 <tr>
 <td width="33%" valign="top">
 
-**SmartCUI** &nbsp; `🥉 3rd — COMSATS Expo Fall '24`
+#### SmartCUI
+<sub>`🥉 3rd Place — COMSATS Expo Fall '24`</sub>
 
-AI-driven career platform with automated skill assessment and personalized job recommendations.
+AI-driven career platform with automated skill assessment and personalized job recommendations built to help students enter the workforce.
 
-`Next.js` `Node.js` `MongoDB` `AI/ML`
+<br/>
 
-[View Project →](https://anas-fazal-portfolio.vercel.app/)
+<sub>
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ed64)
+![OpenAI](https://img.shields.io/badge/AI%2FML-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)
+</sub>
+
+<br/>
+
+[View →](https://anas-fazal-portfolio.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
 
-**TaskIQ**
+#### TaskIQ
 
-Extracts action items from meeting transcripts automatically and delivers them to participants' inboxes with a subscription-based pricing model.
+AI meeting intelligence that extracts action items from transcripts automatically and delivers them to participants' inboxes. Built with subscription-based pricing tiers.
 
-`Nest.js` `Next.js` `Prisma ORM` `LLM`
+<br/>
 
-[View Project →](https://anas-fazal-portfolio.vercel.app/)
+<sub>
+![Nest.js](https://img.shields.io/badge/Nest.js-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=e6edf3)
+![LLM](https://img.shields.io/badge/LLM-0d1117?style=flat-square&logo=probot&logoColor=58a6ff)
+</sub>
+
+<br/>
+
+[View →](https://anas-fazal-portfolio.vercel.app/)
 
 </td>
 <td width="33%" valign="top">
 
-**AI Bus Services Agent**
+#### AI Bus Services Agent
 
-Voice-enabled conversational AI for booking bus tickets. Handles speech-to-speech interaction, real-time route checking, dynamic fare calculation, and seat availability.
+Voice-enabled conversational AI for bus ticket booking. Handles speech-to-speech interaction, real-time route checking, dynamic fare calculation, and live seat availability.
 
-`LLM` `Socket.IO` `Node.js` `WebSockets`
+<br/>
 
-[View Project →](https://anas-fazal-portfolio.vercel.app/)
+<sub>
+![LLM](https://img.shields.io/badge/LLM-0d1117?style=flat-square&logo=probot&logoColor=58a6ff)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io&logoColor=e6edf3)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![WS](https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=websocket&logoColor=58a6ff)
+</sub>
+
+<br/>
+
+[View →](https://anas-fazal-portfolio.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-> See all projects at **[anas-fazal-portfolio.vercel.app](https://anas-fazal-portfolio.vercel.app/)**
+<sub>→ Full portfolio at **[anas-fazal-portfolio.vercel.app](https://anas-fazal-portfolio.vercel.app/)**</sub>
+
+<br/>
 
 ---
+
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anasfazalawan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasfazalawan&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasfazalawan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&border_color=30363d" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasfazalawan&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
+
+<br/><br/>
+
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasfazalawan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&sideNums=e6edf3&currStreakNum=58a6ff" />
+
 </div>
 
+<br/>
+
+<!-- Interactive Contribution Graph -->
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasfazalawan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anasfazalawan&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&radius=6" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anasfazalawan&theme=github-compact&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&hide_border=true" />
-</div>
+<br/>
 
 ---
+
+<br/>
 
 ## Beyond the Code
 
@@ -257,47 +339,58 @@ Voice-enabled conversational AI for booking bus tickets. Handles speech-to-speec
 <tr>
 <td width="50%" valign="top">
 
-**President & Co-Founder — C3.CUI** &nbsp; `Aug 2022 – Dec 2024`
+**President & Co-Founder — C3.CUI**
+<br/><sub>`Aug 2022 – Dec 2024`</sub>
 
-Directed 5+ large-scale events engaging over **10,000 attendees**. Built operational workflows from scratch and secured media coverage across the university community.
+Built a university community from zero. Directed 5+ large-scale events engaging **10,000+ attendees**, secured media coverage, and established operational workflows that outlived my tenure.
 
-**TEDx Operations Manager — TEDxCOMSATS Islamabad** &nbsp; `Feb 2023 – Jun 2025`
+<br/>
 
-Managed end-to-end operations including vendors, venues, and on-ground coordination for events with 10,000+ attendees.
+**TEDx Operations Manager — TEDxCOMSATS Islamabad**
+<br/><sub>`Feb 2023 – Jun 2025`</sub>
+
+End-to-end event operations — vendors, venues, volunteer coordination, and on-ground execution for audiences exceeding 10,000 people.
 
 </td>
 <td width="50%" valign="top">
 
-**Published Author — Melancholic Phases** &nbsp; `July 2022`
+**Published Author — Melancholic Phases**
+<br/><sub>`INDC Publication · July 2022 · ISBN: 1230005677795`</sub>
 
-Co-authored through **INDC Publication** · ISBN: 1230005677795. A poetry anthology written during university, before the code ever began.
+Co-authored a poetry anthology during university — before the code ever began. Writing taught me that clarity of thought translates into clarity of architecture.
+
+<br/>
 
 **Urdu Debater & Orator**
 
-Competed and performed across university platforms. Public speaking, Urdu poetry, and storytelling — the foundation of how I communicate in code and in person.
+Competed and performed across university platforms. The discipline of public speaking, poetry, and structured argument is exactly what I bring to technical communication today.
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
+
+<br/>
 
 ## Let's Connect
 
 <div align="center">
 
-Open to collaborations, freelance projects, and full-time opportunities.
+<sub>Open to collaborations, freelance projects, and full-time opportunities.</sub>
 
-<br/>
+<br/><br/>
 
 <a href="https://anas-fazal-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-302b63?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-View_My_Work-21262d?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=161b22" />
+</a>&nbsp;
 <a href="https://linkedin.com/in/anasfazalawan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+</a>&nbsp;
 <a href="mailto:anasfazalawan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
 </a>
 
 <br/><br/>
@@ -306,9 +399,14 @@ Open to collaborations, freelance projects, and full-time opportunities.
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
-<sub><i>"I build intelligent, scalable web applications — from AI-powered voice agents to full-stack platforms. Technology should tell a story."</i></sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:21262d,100:0d1117&height=120&section=footer&animation=fadeIn" />
+
+<sub><i>"The surface is never the full story."</i></sub>
+
 </div>
