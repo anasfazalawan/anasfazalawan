@@ -229,89 +229,10 @@ Backend systems built with **Node.js**, **Express.js**, **MongoDB**, **MySQL**, 
 
 <br/>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### SmartCUI
-<sub>`🥉 3rd Place — COMSATS Expo Fall '24`</sub>
-
-AI-driven career platform with automated skill assessment and personalized job recommendations built to help students enter the workforce.
-
-<br/>
-
-<sub>
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ed64)
-![OpenAI](https://img.shields.io/badge/AI%2FML-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)
-</sub>
-
-<br/>
-
-[View →](https://anas-fazal-portfolio.vercel.app/)
-
-</td>
-<td width="33%" valign="top">
-
-#### TaskIQ
-
-AI meeting intelligence that extracts action items from transcripts automatically and delivers them to participants' inboxes. Built with subscription-based pricing tiers.
-
-<br/>
-
-<sub>
-![Nest.js](https://img.shields.io/badge/Nest.js-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=e6edf3)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=e6edf3)
-![LLM](https://img.shields.io/badge/LLM-0d1117?style=flat-square&logo=probot&logoColor=58a6ff)
-</sub>
-
-<br/>
-
-[View →](https://anas-fazal-portfolio.vercel.app/)
-
-</td>
-<td width="33%" valign="top">
-
-#### AI Bus Services Agent
-
-Voice-enabled conversational AI for bus ticket booking. Handles speech-to-speech interaction, real-time route checking, dynamic fare calculation, and live seat availability.
-
-<br/>
-
-<sub>
-![LLM](https://img.shields.io/badge/LLM-0d1117?style=flat-square&logo=probot&logoColor=58a6ff)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socket.io&logoColor=e6edf3)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
-![WS](https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=websocket&logoColor=58a6ff)
-</sub>
-
-<br/>
-
-[View →](https://anas-fazal-portfolio.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-<sub>→ Full portfolio at **[anas-fazal-portfolio.vercel.app](https://anas-fazal-portfolio.vercel.app/)**</sub>
-
-<br/>
-
----
-
-<br/>
-
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasfazalawan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&border_color=30363d" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasfazalawan&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
 
 <br/><br/>
 
